@@ -1,4 +1,4 @@
-package com.example.githubtest.view;
+package com.example.verticalscrollview.view;
 
 import android.content.Context;
 import android.util.AttributeSet;

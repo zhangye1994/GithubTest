@@ -1,4 +1,4 @@
-package com.example.githubtest.activity;
+package com.example.verticalscrollview.activity;
 
 import android.graphics.Color;
 import android.os.Build;

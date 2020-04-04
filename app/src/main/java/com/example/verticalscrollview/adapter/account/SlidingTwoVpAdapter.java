@@ -1,4 +1,4 @@
-package com.example.githubtest.adapter.account;
+package com.example.verticalscrollview.adapter.account;
 
 import android.content.Context;
 import android.support.v4.view.PagerAdapter;

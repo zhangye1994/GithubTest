@@ -1,4 +1,4 @@
-package com.example.githubtest.adapter;
+package com.example.verticalscrollview.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

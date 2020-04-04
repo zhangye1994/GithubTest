@@ -1,4 +1,4 @@
-package com.example.githubtest.adapter.account;
+package com.example.verticalscrollview.adapter.account;
 
 import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.chad.library.adapter.base.BaseViewHolder;

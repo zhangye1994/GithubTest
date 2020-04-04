@@ -1,4 +1,4 @@
-package com.example.githubtest;
+package com.example.verticalscrollview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

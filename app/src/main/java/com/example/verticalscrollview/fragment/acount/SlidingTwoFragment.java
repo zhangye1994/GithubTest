@@ -1,4 +1,4 @@
-package com.example.githubtest.fragment.acount;
+package com.example.verticalscrollview.fragment.acount;
 
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;

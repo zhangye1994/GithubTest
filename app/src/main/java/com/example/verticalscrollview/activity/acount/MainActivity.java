@@ -1,4 +1,4 @@
-package com.example.githubtest.activity.acount;
+package com.example.verticalscrollview.activity.acount;
 
 import android.content.Context;
 import android.databinding.DataBindingUtil;
