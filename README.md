@@ -27,7 +27,8 @@ Step1（第一步）：
           
 	}
   
-  依赖方式2：
+ 依赖方式2：
+  
  Step 1. Add the JitPack repository to your build file
   
         <repositories>
