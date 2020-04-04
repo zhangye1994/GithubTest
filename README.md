@@ -28,21 +28,30 @@ Step1（第一步）：
 	}
   
   依赖方式2：
- Step1:
+ Step 1. Add the JitPack repository to your build file
   
-  <repositories>
+        <repositories>
+	
 		<repository>
+		
 		    <id>jitpack.io</id>
+		    
 		    <url>https://jitpack.io</url>
+		    
 		</repository>
+		
 	</repositories>
   
-  Step2：
+Step 2. Add the dependency
   
   	<dependency>
+	
 	    <groupId>com.github.zhangye1994</groupId>
+	    
 	    <artifactId>GithubTest</artifactId>
+	    
 	    <version>1.0.0</version>
+	    
 	</dependency>
   
   
