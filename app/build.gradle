@@ -39,6 +39,7 @@ dependencies {
     implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.4'
     //一个比较全面的工具类
     implementation 'com.blankj:utilcode:1.23.5'
+
     implementation 'com.android.support:support-v4:28.0.0'
     //使用XPOP
     implementation 'com.lxj:xpopup:1.8.10'
