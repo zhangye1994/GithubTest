@@ -32,7 +32,7 @@ Step1（第一步）：
  
  dependencies {
  
-	        implementation 'com.github.zhangye1994:GithubTest:1.0.0'
+	        implementation 'com.github.zhangye1994:GithubTest:1.0.0'//版本号请尽量使用最新的，避免出现错误
           
 	}
   
